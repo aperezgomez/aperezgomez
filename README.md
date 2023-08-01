@@ -9,6 +9,12 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/aperezgomez/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aperezgomez/azure-network-protocols)
+- <b>JavaScript</b>
+  - [OpenAI Application](https://github.com/aperezgomez/gpt-new-copy)
+  - [Fullstack eCommerce Site](https://github.com/aperezgomez/ecommerce)
+- <b>Python</b>
+  - [Discord GPT Bot](https://github.com/aperezgomez/open_ai_app)
+  - [Fullstack Restaurant Booking Online](https://github.com/aperezgomez/LittleLemon-Booking)
 
 <h2>🤳Connect with me:</h2>
 
