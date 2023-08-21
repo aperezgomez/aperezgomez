@@ -30,13 +30,29 @@ Looking forward to a future where I can merge my passion for IT with a rewarding
 
 
 
+
+### Data Analytics
+- [Forecast Bikeshare Demand](https://github.com/aperezgomez/Forecast_bikeshare_demand) 
+
+
+
+
+### Cyber Security  
+- [Python Algorithms](https://github.com/aperezgomez/Python_algorithm)  
+- [SQL Queries](https://github.com/aperezgomez/SQL_queries)  
+- [Linux File Permissions](https://github.com/aperezgomez/-Linux_file_permissions)
+- [NIST Cybersecurity Framework](https://github.com/aperezgomez/NIST_Cybersecurity_Framework)
+- [Analysis of Network Hardening](https://github.com/aperezgomez/Analysis_of_network_hardening)
+- [Analyze Network Attacks](https://github.com/aperezgomez/Analyze_network_attacks)
+- [Network Traffic Analysis](https://github.com/aperezgomez/Cybersecurity_Network_Traffic_Analysis)
+- [Security Audit](https://github.com/aperezgomez/Cyber_Security_Audit)
+
+
+
+
 ### osTicket  
 - [osTicket: Prerequisites and Installation](https://github.com/aperezgomez/osticket-prereqs)  
-  
-
 - [osTicket: Post-Installation Configuration](https://github.com/aperezgomez/post-install-config)  
-  
-
 - [osTicket: Ticket Lifecycle Examples](https://github.com/aperezgomez/ticket-lifecycle)  
   
 
@@ -44,8 +60,6 @@ Looking forward to a future where I can merge my passion for IT with a rewarding
 
 ### Microsoft Azure  
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/aperezgomez/configure-ad)  
-  
-
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aperezgomez/azure-network-protocols)  
   
 
@@ -53,8 +67,6 @@ Looking forward to a future where I can merge my passion for IT with a rewarding
 
 ### JavaScript  
 - [OpenAI Application](https://github.com/aperezgomez/gpt-new-copy)  
-  
-
 - [Fullstack eCommerce Site](https://github.com/aperezgomez/ecommerce)  
   
 
@@ -62,7 +74,8 @@ Looking forward to a future where I can merge my passion for IT with a rewarding
 
 ### Python  
 - [Back End Restaurant Bookin](https://github.com/aperezgomez/LittleLemon-Booking)
-- [Back End Developer Capstone](https://github.com/aperezgomez/workspace)  
+- [Back End Developer Capstone](https://github.com/aperezgomez/workspace)
+- [User Login](https://github.com/aperezgomez/user-login-python-files)  
 
 
 </td><td valign="top" width="50%">
