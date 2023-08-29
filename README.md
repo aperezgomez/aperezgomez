@@ -67,7 +67,8 @@ Looking forward to a future where I can merge my passion for IT with a rewarding
 
 ### JavaScript  
 - [OpenAI Application](https://github.com/aperezgomez/gpt-new-copy)  
-- [Fullstack eCommerce Site](https://github.com/aperezgomez/ecommerce)  
+- [Fullstack eCommerce Site](https://github.com/aperezgomez/ecommerce)
+- [Weather Dashboard](https://github.com/aperezgomez/weather-app)
   
 
 
