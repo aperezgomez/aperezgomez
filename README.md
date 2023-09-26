@@ -30,6 +30,11 @@ Looking forward to a future where I can merge my passion for IT with a rewarding
 
 
 
+### Angular
+- [Angular Applications](https://github.com/aperezgomez/angular)
+
+
+
 
 ### Data Analytics
 - [Forecast Bikeshare Demand](https://github.com/aperezgomez/Forecast_bikeshare_demand) 
